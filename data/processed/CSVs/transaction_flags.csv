@@ -1,0 +1,1655 @@
+flag_id,transaction_id,flag_type,flag_reason,flagged_at
+FLAG000001,TXN0000059,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000002,TXN0000062,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000003,TXN0000095,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000004,TXN0000160,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000005,TXN0000208,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000006,TXN0000246,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000007,TXN0000288,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000008,TXN0000308,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000009,TXN0000310,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000010,TXN0000313,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000011,TXN0000335,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000012,TXN0000434,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000013,TXN0000444,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000014,TXN0000455,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000015,TXN0000459,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000016,TXN0000510,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000017,TXN0000558,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000018,TXN0000631,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000019,TXN0000635,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000020,TXN0000661,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000021,TXN0000671,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000022,TXN0000776,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000023,TXN0000778,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000024,TXN0000781,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000025,TXN0000797,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000026,TXN0000801,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000027,TXN0000833,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000028,TXN0000845,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000029,TXN0000866,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000030,TXN0000890,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000031,TXN0000910,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000032,TXN0000926,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000033,TXN0000965,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000034,TXN0001037,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000035,TXN0001066,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000036,TXN0001093,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000037,TXN0001138,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000038,TXN0001187,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000039,TXN0001254,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000040,TXN0001319,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000041,TXN0001348,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000042,TXN0001370,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000043,TXN0001377,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000044,TXN0001427,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000045,TXN0001436,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000046,TXN0001455,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000047,TXN0001490,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000048,TXN0001617,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000049,TXN0001644,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000050,TXN0001662,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000051,TXN0001680,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000052,TXN0001700,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000053,TXN0001715,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000054,TXN0001779,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000055,TXN0001795,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000056,TXN0001850,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000057,TXN0001895,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000058,TXN0001906,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000059,TXN0001914,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000060,TXN0001984,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000061,TXN0002058,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000062,TXN0002070,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000063,TXN0002120,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000064,TXN0002165,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000065,TXN0002166,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000066,TXN0002265,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000067,TXN0002342,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000068,TXN0002349,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000069,TXN0002399,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000070,TXN0002482,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000071,TXN0002560,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000072,TXN0002592,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000073,TXN0002704,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000074,TXN0002753,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000075,TXN0002839,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000076,TXN0002857,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000077,TXN0002864,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000078,TXN0002913,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000079,TXN0002926,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000080,TXN0003010,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000081,TXN0003157,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000082,TXN0003192,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000083,TXN0003315,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000084,TXN0003360,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000085,TXN0003423,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000086,TXN0003428,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000087,TXN0003438,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000088,TXN0003471,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000089,TXN0003549,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000090,TXN0003573,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000091,TXN0003586,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000092,TXN0003608,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000093,TXN0003649,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000094,TXN0003686,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000095,TXN0003724,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000096,TXN0003816,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000097,TXN0003822,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000098,TXN0003836,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000099,TXN0003846,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000100,TXN0003881,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000101,TXN0003917,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000102,TXN0003924,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000103,TXN0003959,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000104,TXN0004023,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000105,TXN0004040,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000106,TXN0004079,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000107,TXN0004116,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000108,TXN0004132,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000109,TXN0004201,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000110,TXN0004279,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000111,TXN0004307,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000112,TXN0004348,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000113,TXN0004355,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000114,TXN0004369,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000115,TXN0004375,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000116,TXN0004377,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000117,TXN0004449,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000118,TXN0004465,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000119,TXN0004486,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000120,TXN0004489,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000121,TXN0004501,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000122,TXN0004631,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000123,TXN0004640,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000124,TXN0004707,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000125,TXN0004709,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000126,TXN0004710,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000127,TXN0004717,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000128,TXN0004869,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000129,TXN0004877,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000130,TXN0004893,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000131,TXN0004957,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000132,TXN0004977,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000133,TXN0005072,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000134,TXN0005089,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000135,TXN0005104,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000136,TXN0005152,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000137,TXN0005206,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000138,TXN0005218,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000139,TXN0005227,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000140,TXN0005249,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000141,TXN0005255,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000142,TXN0005299,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000143,TXN0005450,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000144,TXN0005518,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000145,TXN0005524,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000146,TXN0005547,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000147,TXN0005586,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000148,TXN0005694,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000149,TXN0005706,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000150,TXN0005728,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000151,TXN0005753,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000152,TXN0005756,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000153,TXN0005761,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000154,TXN0005799,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000155,TXN0005811,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000156,TXN0005827,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000157,TXN0005835,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000158,TXN0005843,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000159,TXN0005883,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000160,TXN0005942,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000161,TXN0006025,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000162,TXN0006087,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000163,TXN0006142,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000164,TXN0006149,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000165,TXN0006208,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000166,TXN0006259,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000167,TXN0006266,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000168,TXN0006345,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000169,TXN0006409,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000170,TXN0006427,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000171,TXN0006458,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000172,TXN0006577,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000173,TXN0006630,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000174,TXN0006708,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000175,TXN0006720,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000176,TXN0006737,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000177,TXN0006742,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000178,TXN0006770,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000179,TXN0006833,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000180,TXN0006840,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000181,TXN0006846,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000182,TXN0006872,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000183,TXN0006891,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000184,TXN0006924,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000185,TXN0006930,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000186,TXN0006987,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000187,TXN0007002,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000188,TXN0007013,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000189,TXN0007017,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000190,TXN0007027,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000191,TXN0007067,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000192,TXN0007142,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000193,TXN0007177,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000194,TXN0007205,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000195,TXN0007220,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000196,TXN0007230,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000197,TXN0007246,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000198,TXN0007299,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000199,TXN0007315,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000200,TXN0007420,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000201,TXN0007544,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000202,TXN0007551,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000203,TXN0007558,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000204,TXN0007592,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000205,TXN0007613,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000206,TXN0007680,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000207,TXN0007724,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000208,TXN0007734,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000209,TXN0007746,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000210,TXN0007754,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000211,TXN0007771,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000212,TXN0007784,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000213,TXN0007785,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000214,TXN0007788,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000215,TXN0008006,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000216,TXN0008014,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000217,TXN0008062,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000218,TXN0008078,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000219,TXN0008113,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000220,TXN0008153,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000221,TXN0008283,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000222,TXN0008316,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000223,TXN0008361,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000224,TXN0008365,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000225,TXN0008371,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000226,TXN0008430,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000227,TXN0008468,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000228,TXN0008619,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000229,TXN0008638,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000230,TXN0008646,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000231,TXN0008745,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000232,TXN0008746,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000233,TXN0008760,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000234,TXN0008834,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000235,TXN0008877,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000236,TXN0008889,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000237,TXN0008934,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000238,TXN0008991,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000239,TXN0009048,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000240,TXN0009068,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000241,TXN0009109,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000242,TXN0009121,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000243,TXN0009144,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000244,TXN0009162,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000245,TXN0009177,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000246,TXN0009182,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000247,TXN0009228,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000248,TXN0009269,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000249,TXN0009272,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000250,TXN0009319,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000251,TXN0009361,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000252,TXN0009367,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000253,TXN0009396,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000254,TXN0009453,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000255,TXN0009488,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000256,TXN0009503,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000257,TXN0009565,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000258,TXN0009578,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000259,TXN0009617,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000260,TXN0009620,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000261,TXN0009642,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000262,TXN0009676,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000263,TXN0009716,high_value,Transaction amount exceeds 10000.0,2026-01-06 20:53:28.069603
+FLAG000001,TXN0000004,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.082706
+FLAG000002,TXN0000012,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.082982
+FLAG000003,TXN0000020,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.083249
+FLAG000004,TXN0000024,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.083385
+FLAG000005,TXN0000040,cross_border,Transaction country TR differs from home country GE,2026-01-06 20:53:28.083920
+FLAG000006,TXN0000046,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.084116
+FLAG000007,TXN0000053,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.084344
+FLAG000008,TXN0000058,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.084509
+FLAG000009,TXN0000060,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.084576
+FLAG000010,TXN0000062,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.084646
+FLAG000011,TXN0000063,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.084682
+FLAG000012,TXN0000077,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.085126
+FLAG000013,TXN0000079,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.085194
+FLAG000014,TXN0000081,cross_border,Transaction country GE differs from home country GB,2026-01-06 20:53:28.085262
+FLAG000015,TXN0000089,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.085516
+FLAG000016,TXN0000093,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.085645
+FLAG000017,TXN0000095,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.085720
+FLAG000018,TXN0000100,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.085990
+FLAG000019,TXN0000102,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.086100
+FLAG000020,TXN0000106,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.086272
+FLAG000021,TXN0000125,cross_border,Transaction country US differs from home country TR,2026-01-06 20:53:28.086983
+FLAG000022,TXN0000131,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.087209
+FLAG000023,TXN0000147,cross_border,Transaction country AZ differs from home country TR,2026-01-06 20:53:28.088060
+FLAG000024,TXN0000148,cross_border,Transaction country AZ differs from home country TR,2026-01-06 20:53:28.088104
+FLAG000025,TXN0000151,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.088212
+FLAG000026,TXN0000167,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.088952
+FLAG000027,TXN0000168,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.089014
+FLAG000028,TXN0000170,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.089092
+FLAG000029,TXN0000175,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.089315
+FLAG000030,TXN0000188,cross_border,Transaction country AZ differs from home country DE,2026-01-06 20:53:28.090057
+FLAG000031,TXN0000191,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.090200
+FLAG000032,TXN0000198,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.090488
+FLAG000033,TXN0000199,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.090527
+FLAG000034,TXN0000204,cross_border,Transaction country TR differs from home country GB,2026-01-06 20:53:28.090713
+FLAG000035,TXN0000213,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.091028
+FLAG000036,TXN0000236,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.091758
+FLAG000037,TXN0000238,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.091830
+FLAG000038,TXN0000248,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.092155
+FLAG000039,TXN0000249,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.092192
+FLAG000040,TXN0000264,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.092671
+FLAG000041,TXN0000285,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.093337
+FLAG000042,TXN0000291,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.093530
+FLAG000043,TXN0000293,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.093599
+FLAG000044,TXN0000294,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.093635
+FLAG000045,TXN0000299,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.093810
+FLAG000046,TXN0000306,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.094035
+FLAG000047,TXN0000313,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.094260
+FLAG000048,TXN0000321,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.094517
+FLAG000049,TXN0000325,cross_border,Transaction country TR differs from home country GE,2026-01-06 20:53:28.094648
+FLAG000050,TXN0000333,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.094905
+FLAG000051,TXN0000334,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.094942
+FLAG000052,TXN0000341,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.095166
+FLAG000053,TXN0000343,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.095233
+FLAG000054,TXN0000350,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.095460
+FLAG000055,TXN0000354,cross_border,Transaction country AZ differs from home country US,2026-01-06 20:53:28.095591
+FLAG000056,TXN0000373,cross_border,Transaction country GE differs from home country GB,2026-01-06 20:53:28.096208
+FLAG000057,TXN0000398,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.096998
+FLAG000058,TXN0000411,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.097408
+FLAG000059,TXN0000417,cross_border,Transaction country US differs from home country GB,2026-01-06 20:53:28.097601
+FLAG000060,TXN0000424,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.097843
+FLAG000061,TXN0000432,cross_border,Transaction country GE differs from home country TR,2026-01-06 20:53:28.098106
+FLAG000062,TXN0000436,cross_border,Transaction country AZ differs from home country TR,2026-01-06 20:53:28.098239
+FLAG000063,TXN0000437,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.098277
+FLAG000064,TXN0000441,cross_border,Transaction country GE differs from home country TR,2026-01-06 20:53:28.098410
+FLAG000065,TXN0000447,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.098604
+FLAG000066,TXN0000455,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.098870
+FLAG000067,TXN0000464,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.099166
+FLAG000068,TXN0000470,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.099362
+FLAG000069,TXN0000483,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.099791
+FLAG000070,TXN0000488,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.099957
+FLAG000071,TXN0000492,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.100089
+FLAG000072,TXN0000495,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.100191
+FLAG000073,TXN0000498,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.100291
+FLAG000074,TXN0000499,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.100330
+FLAG000075,TXN0000500,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.100367
+FLAG000076,TXN0000514,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.100835
+FLAG000077,TXN0000515,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.100871
+FLAG000078,TXN0000520,cross_border,Transaction country GE differs from home country DE,2026-01-06 20:53:28.101042
+FLAG000079,TXN0000522,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.101124
+FLAG000080,TXN0000523,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.101161
+FLAG000081,TXN0000535,cross_border,Transaction country US differs from home country GB,2026-01-06 20:53:28.101664
+FLAG000082,TXN0000542,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.102016
+FLAG000083,TXN0000545,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.102164
+FLAG000084,TXN0000549,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.102359
+FLAG000085,TXN0000550,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.102411
+FLAG000086,TXN0000557,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.102723
+FLAG000087,TXN0000559,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.102852
+FLAG000088,TXN0000563,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.103068
+FLAG000089,TXN0000566,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.103236
+FLAG000090,TXN0000575,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.103790
+FLAG000091,TXN0000595,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.105002
+FLAG000092,TXN0000596,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.105089
+FLAG000093,TXN0000606,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.105573
+FLAG000094,TXN0000617,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.106070
+FLAG000095,TXN0000619,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.106170
+FLAG000096,TXN0000623,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.106349
+FLAG000097,TXN0000624,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.106391
+FLAG000098,TXN0000639,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.106972
+FLAG000099,TXN0000640,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.107017
+FLAG000100,TXN0000641,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.107072
+FLAG000101,TXN0000644,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.107212
+FLAG000102,TXN0000646,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.107300
+FLAG000103,TXN0000648,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.107398
+FLAG000104,TXN0000650,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.107490
+FLAG000105,TXN0000655,cross_border,Transaction country DE differs from home country TR,2026-01-06 20:53:28.107705
+FLAG000106,TXN0000669,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.108326
+FLAG000107,TXN0000671,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.108418
+FLAG000108,TXN0000673,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.108507
+FLAG000109,TXN0000677,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.108690
+FLAG000110,TXN0000691,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.109301
+FLAG000111,TXN0000693,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.109395
+FLAG000112,TXN0000706,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.109960
+FLAG000113,TXN0000710,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.110128
+FLAG000114,TXN0000722,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.110577
+FLAG000115,TXN0000734,cross_border,Transaction country DE differs from home country GE,2026-01-06 20:53:28.111081
+FLAG000116,TXN0000740,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.111298
+FLAG000117,TXN0000756,cross_border,Transaction country AZ differs from home country TR,2026-01-06 20:53:28.111978
+FLAG000118,TXN0000767,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.112451
+FLAG000119,TXN0000772,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.112662
+FLAG000120,TXN0000781,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.113045
+FLAG000121,TXN0000783,cross_border,Transaction country GB differs from home country US,2026-01-06 20:53:28.113139
+FLAG000122,TXN0000807,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.114110
+FLAG000123,TXN0000829,cross_border,Transaction country AZ differs from home country GE,2026-01-06 20:53:28.115011
+FLAG000124,TXN0000845,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.115678
+FLAG000125,TXN0000846,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.115722
+FLAG000126,TXN0000857,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.116202
+FLAG000127,TXN0000873,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.116861
+FLAG000128,TXN0000884,cross_border,Transaction country US differs from home country TR,2026-01-06 20:53:28.117485
+FLAG000129,TXN0000891,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.117867
+FLAG000130,TXN0000894,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.117987
+FLAG000131,TXN0000915,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.118843
+FLAG000132,TXN0000921,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.119097
+FLAG000133,TXN0000927,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.119352
+FLAG000134,TXN0000928,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.119405
+FLAG000135,TXN0000930,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.119491
+FLAG000136,TXN0000944,cross_border,Transaction country US differs from home country GE,2026-01-06 20:53:28.120244
+FLAG000137,TXN0000953,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.120627
+FLAG000138,TXN0000958,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.120855
+FLAG000139,TXN0000968,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.121306
+FLAG000140,TXN0000970,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.121390
+FLAG000141,TXN0000974,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.121555
+FLAG000142,TXN0000975,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.121596
+FLAG000143,TXN0000978,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.121705
+FLAG000144,TXN0000982,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.121861
+FLAG000145,TXN0000987,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.122086
+FLAG000146,TXN0000989,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.122167
+FLAG000147,TXN0000990,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.122208
+FLAG000148,TXN0001001,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.122615
+FLAG000149,TXN0001003,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.122719
+FLAG000150,TXN0001006,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.122850
+FLAG000151,TXN0001008,cross_border,Transaction country AZ differs from home country DE,2026-01-06 20:53:28.122933
+FLAG000152,TXN0001010,cross_border,Transaction country US differs from home country DE,2026-01-06 20:53:28.123046
+FLAG000153,TXN0001024,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.123620
+FLAG000154,TXN0001035,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.124104
+FLAG000155,TXN0001036,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.124149
+FLAG000156,TXN0001045,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.124534
+FLAG000157,TXN0001059,cross_border,Transaction country GB differs from home country DE,2026-01-06 20:53:28.125129
+FLAG000158,TXN0001063,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.125299
+FLAG000159,TXN0001067,cross_border,Transaction country US differs from home country TR,2026-01-06 20:53:28.125466
+FLAG000160,TXN0001070,cross_border,Transaction country US differs from home country TR,2026-01-06 20:53:28.125598
+FLAG000161,TXN0001080,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.126003
+FLAG000162,TXN0001081,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.126044
+FLAG000163,TXN0001093,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.126530
+FLAG000164,TXN0001095,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.126621
+FLAG000165,TXN0001117,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.127530
+FLAG000166,TXN0001119,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.127620
+FLAG000167,TXN0001121,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.127715
+FLAG000168,TXN0001128,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.128021
+FLAG000169,TXN0001151,cross_border,Transaction country AZ differs from home country TR,2026-01-06 20:53:28.128998
+FLAG000170,TXN0001152,cross_border,Transaction country US differs from home country TR,2026-01-06 20:53:28.129048
+FLAG000171,TXN0001153,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.129091
+FLAG000172,TXN0001157,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.129269
+FLAG000173,TXN0001167,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.129683
+FLAG000174,TXN0001170,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.129799
+FLAG000175,TXN0001173,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.129923
+FLAG000176,TXN0001187,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.130501
+FLAG000177,TXN0001189,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.130611
+FLAG000178,TXN0001190,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.130656
+FLAG000179,TXN0001200,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.131076
+FLAG000180,TXN0001204,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.131254
+FLAG000181,TXN0001205,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.131302
+FLAG000182,TXN0001215,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.131723
+FLAG000183,TXN0001222,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.132030
+FLAG000184,TXN0001233,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.132473
+FLAG000185,TXN0001235,cross_border,Transaction country GB differs from home country GE,2026-01-06 20:53:28.132561
+FLAG000186,TXN0001253,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.133665
+FLAG000187,TXN0001261,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.134227
+FLAG000188,TXN0001271,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.134987
+FLAG000189,TXN0001274,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.135209
+FLAG000190,TXN0001276,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.135442
+FLAG000191,TXN0001279,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.135796
+FLAG000192,TXN0001280,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.135998
+FLAG000193,TXN0001287,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.136554
+FLAG000194,TXN0001292,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.136771
+FLAG000195,TXN0001297,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.136991
+FLAG000196,TXN0001316,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.137982
+FLAG000197,TXN0001317,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.138062
+FLAG000198,TXN0001324,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.138421
+FLAG000199,TXN0001329,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.138646
+FLAG000200,TXN0001330,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.138690
+FLAG000201,TXN0001333,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.138834
+FLAG000202,TXN0001338,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.139067
+FLAG000203,TXN0001340,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.139160
+FLAG000204,TXN0001348,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.139623
+FLAG000205,TXN0001355,cross_border,Transaction country AZ differs from home country TR,2026-01-06 20:53:28.140047
+FLAG000206,TXN0001359,cross_border,Transaction country AZ differs from home country US,2026-01-06 20:53:28.140303
+FLAG000207,TXN0001363,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.140502
+FLAG000208,TXN0001382,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.141457
+FLAG000209,TXN0001396,cross_border,Transaction country GB differs from home country GE,2026-01-06 20:53:28.142353
+FLAG000210,TXN0001399,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.142546
+FLAG000211,TXN0001407,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.143011
+FLAG000212,TXN0001412,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.143245
+FLAG000213,TXN0001422,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.143748
+FLAG000214,TXN0001433,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.144236
+FLAG000215,TXN0001436,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.144397
+FLAG000216,TXN0001441,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.144627
+FLAG000217,TXN0001444,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.144763
+FLAG000218,TXN0001465,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.145912
+FLAG000219,TXN0001466,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.145987
+FLAG000220,TXN0001474,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.146498
+FLAG000221,TXN0001480,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.146881
+FLAG000222,TXN0001490,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.147502
+FLAG000223,TXN0001499,cross_border,Transaction country GB differs from home country GE,2026-01-06 20:53:28.147838
+FLAG000224,TXN0001500,cross_border,Transaction country US differs from home country GE,2026-01-06 20:53:28.147879
+FLAG000225,TXN0001502,cross_border,Transaction country GB differs from home country GE,2026-01-06 20:53:28.148004
+FLAG000226,TXN0001508,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.148382
+FLAG000227,TXN0001534,cross_border,Transaction country AZ differs from home country TR,2026-01-06 20:53:28.150492
+FLAG000228,TXN0001535,cross_border,Transaction country GE differs from home country TR,2026-01-06 20:53:28.150589
+FLAG000229,TXN0001536,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.150669
+FLAG000230,TXN0001538,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.150833
+FLAG000231,TXN0001542,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.151050
+FLAG000232,TXN0001548,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.151350
+FLAG000233,TXN0001555,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.151856
+FLAG000234,TXN0001558,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.152070
+FLAG000235,TXN0001563,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.152433
+FLAG000236,TXN0001564,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.152528
+FLAG000237,TXN0001577,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.153542
+FLAG000238,TXN0001585,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.154040
+FLAG000239,TXN0001586,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.154122
+FLAG000240,TXN0001590,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.154372
+FLAG000241,TXN0001596,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.154766
+FLAG000242,TXN0001616,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.156224
+FLAG000243,TXN0001621,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.156622
+FLAG000244,TXN0001623,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.156783
+FLAG000245,TXN0001625,cross_border,Transaction country US differs from home country DE,2026-01-06 20:53:28.156924
+FLAG000246,TXN0001647,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.158227
+FLAG000247,TXN0001649,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.158368
+FLAG000248,TXN0001651,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.158520
+FLAG000249,TXN0001652,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.158579
+FLAG000250,TXN0001663,cross_border,Transaction country AZ differs from home country GE,2026-01-06 20:53:28.159298
+FLAG000251,TXN0001664,cross_border,Transaction country DE differs from home country GE,2026-01-06 20:53:28.159393
+FLAG000252,TXN0001667,cross_border,Transaction country US differs from home country GE,2026-01-06 20:53:28.159593
+FLAG000253,TXN0001680,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.160547
+FLAG000254,TXN0001684,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.160877
+FLAG000255,TXN0001690,cross_border,Transaction country GE differs from home country TR,2026-01-06 20:53:28.161368
+FLAG000256,TXN0001693,cross_border,Transaction country US differs from home country TR,2026-01-06 20:53:28.161618
+FLAG000257,TXN0001700,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.162180
+FLAG000258,TXN0001715,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.163134
+FLAG000259,TXN0001719,cross_border,Transaction country GB differs from home country GE,2026-01-06 20:53:28.163321
+FLAG000260,TXN0001720,cross_border,Transaction country DE differs from home country GE,2026-01-06 20:53:28.163398
+FLAG000261,TXN0001728,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.164083
+FLAG000262,TXN0001730,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.164227
+FLAG000263,TXN0001731,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.164327
+FLAG000264,TXN0001746,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.165387
+FLAG000265,TXN0001755,cross_border,Transaction country GE differs from home country TR,2026-01-06 20:53:28.166071
+FLAG000266,TXN0001766,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.166875
+FLAG000267,TXN0001768,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.167008
+FLAG000268,TXN0001772,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.167269
+FLAG000269,TXN0001775,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.167471
+FLAG000270,TXN0001781,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.167883
+FLAG000271,TXN0001812,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.169773
+FLAG000272,TXN0001816,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.170036
+FLAG000273,TXN0001821,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.170364
+FLAG000274,TXN0001825,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.170626
+FLAG000275,TXN0001828,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.170835
+FLAG000276,TXN0001835,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.171278
+FLAG000277,TXN0001850,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.172462
+FLAG000278,TXN0001852,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.172594
+FLAG000279,TXN0001855,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.172793
+FLAG000280,TXN0001884,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.174525
+FLAG000281,TXN0001930,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.177707
+FLAG000282,TXN0001934,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.178044
+FLAG000283,TXN0001941,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.178613
+FLAG000284,TXN0001943,cross_border,Transaction country GE differs from home country TR,2026-01-06 20:53:28.178726
+FLAG000285,TXN0001947,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.178957
+FLAG000286,TXN0001955,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.179507
+FLAG000287,TXN0001961,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.179996
+FLAG000288,TXN0001973,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.180901
+FLAG000289,TXN0001976,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.181165
+FLAG000290,TXN0001982,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.181662
+FLAG000291,TXN0001985,cross_border,Transaction country GE differs from home country TR,2026-01-06 20:53:28.181887
+FLAG000292,TXN0001987,cross_border,Transaction country US differs from home country TR,2026-01-06 20:53:28.182030
+FLAG000293,TXN0001995,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.182670
+FLAG000294,TXN0001996,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.182767
+FLAG000295,TXN0002005,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.183330
+FLAG000296,TXN0002007,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.183500
+FLAG000297,TXN0002021,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.184613
+FLAG000298,TXN0002035,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.185735
+FLAG000299,TXN0002047,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.186686
+FLAG000300,TXN0002051,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.186877
+FLAG000301,TXN0002053,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.186977
+FLAG000302,TXN0002054,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.187021
+FLAG000303,TXN0002070,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.188178
+FLAG000304,TXN0002075,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.188566
+FLAG000305,TXN0002081,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.189031
+FLAG000306,TXN0002089,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.189490
+FLAG000307,TXN0002090,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.189563
+FLAG000308,TXN0002096,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.190039
+FLAG000309,TXN0002104,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.190683
+FLAG000310,TXN0002109,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.190969
+FLAG000311,TXN0002118,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.191546
+FLAG000312,TXN0002128,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.192407
+FLAG000313,TXN0002131,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.192611
+FLAG000314,TXN0002132,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.192689
+FLAG000315,TXN0002141,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.193299
+FLAG000316,TXN0002143,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.193444
+FLAG000317,TXN0002145,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.193612
+FLAG000318,TXN0002147,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.193775
+FLAG000319,TXN0002153,cross_border,Transaction country US differs from home country GE,2026-01-06 20:53:28.194233
+FLAG000320,TXN0002154,cross_border,Transaction country US differs from home country GE,2026-01-06 20:53:28.194291
+FLAG000321,TXN0002171,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.195325
+FLAG000322,TXN0002173,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.195515
+FLAG000323,TXN0002176,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.195801
+FLAG000324,TXN0002182,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.196354
+FLAG000325,TXN0002183,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.196501
+FLAG000326,TXN0002190,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.197059
+FLAG000327,TXN0002192,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.197209
+FLAG000328,TXN0002198,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.197794
+FLAG000329,TXN0002208,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.198813
+FLAG000330,TXN0002212,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.199102
+FLAG000331,TXN0002215,cross_border,Transaction country GE differs from home country TR,2026-01-06 20:53:28.199248
+FLAG000332,TXN0002223,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.199837
+FLAG000333,TXN0002224,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.199927
+FLAG000334,TXN0002225,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.200028
+FLAG000335,TXN0002228,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.200266
+FLAG000336,TXN0002231,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.200472
+FLAG000337,TXN0002240,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.201179
+FLAG000338,TXN0002242,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.201339
+FLAG000339,TXN0002244,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.201513
+FLAG000340,TXN0002248,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.201875
+FLAG000341,TXN0002277,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.203866
+FLAG000342,TXN0002291,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.204737
+FLAG000343,TXN0002292,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.204812
+FLAG000344,TXN0002326,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.206940
+FLAG000345,TXN0002335,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.207415
+FLAG000346,TXN0002358,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.208866
+FLAG000347,TXN0002362,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.209123
+FLAG000348,TXN0002363,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.209196
+FLAG000349,TXN0002368,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.209479
+FLAG000350,TXN0002376,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.209955
+FLAG000351,TXN0002381,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.210267
+FLAG000352,TXN0002390,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.210821
+FLAG000353,TXN0002414,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.212418
+FLAG000354,TXN0002415,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.212560
+FLAG000355,TXN0002417,cross_border,Transaction country GE differs from home country TR,2026-01-06 20:53:28.212734
+FLAG000356,TXN0002419,cross_border,Transaction country GE differs from home country US,2026-01-06 20:53:28.212910
+FLAG000357,TXN0002423,cross_border,Transaction country DE differs from home country US,2026-01-06 20:53:28.213224
+FLAG000358,TXN0002431,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.213860
+FLAG000359,TXN0002436,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.214143
+FLAG000360,TXN0002440,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.214366
+FLAG000361,TXN0002448,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.214903
+FLAG000362,TXN0002453,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.215204
+FLAG000363,TXN0002456,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.215411
+FLAG000364,TXN0002464,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.216059
+FLAG000365,TXN0002469,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.216474
+FLAG000366,TXN0002475,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.216959
+FLAG000367,TXN0002483,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.217576
+FLAG000368,TXN0002490,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.218169
+FLAG000369,TXN0002494,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.218514
+FLAG000370,TXN0002498,cross_border,Transaction country US differs from home country TR,2026-01-06 20:53:28.218827
+FLAG000371,TXN0002509,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.219464
+FLAG000372,TXN0002512,cross_border,Transaction country TR differs from home country US,2026-01-06 20:53:28.219594
+FLAG000373,TXN0002524,cross_border,Transaction country GE differs from home country US,2026-01-06 20:53:28.220288
+FLAG000374,TXN0002525,cross_border,Transaction country GE differs from home country US,2026-01-06 20:53:28.220401
+FLAG000375,TXN0002532,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.220987
+FLAG000376,TXN0002546,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.222109
+FLAG000377,TXN0002554,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.222734
+FLAG000378,TXN0002565,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.223599
+FLAG000379,TXN0002566,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.223686
+FLAG000380,TXN0002568,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.223867
+FLAG000381,TXN0002574,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.224374
+FLAG000382,TXN0002579,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.224645
+FLAG000383,TXN0002582,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.224854
+FLAG000384,TXN0002585,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.225087
+FLAG000385,TXN0002590,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.225476
+FLAG000386,TXN0002592,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.225634
+FLAG000387,TXN0002601,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.226351
+FLAG000388,TXN0002615,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.227708
+FLAG000389,TXN0002621,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.228108
+FLAG000390,TXN0002622,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.228192
+FLAG000391,TXN0002631,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.229057
+FLAG000392,TXN0002636,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.229478
+FLAG000393,TXN0002646,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.230169
+FLAG000394,TXN0002662,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.231286
+FLAG000395,TXN0002665,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.231469
+FLAG000396,TXN0002670,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.231794
+FLAG000397,TXN0002673,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.232038
+FLAG000398,TXN0002678,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.232377
+FLAG000399,TXN0002704,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.234430
+FLAG000400,TXN0002710,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.234723
+FLAG000401,TXN0002722,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.235411
+FLAG000402,TXN0002723,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.235499
+FLAG000403,TXN0002733,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.236155
+FLAG000404,TXN0002761,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.238123
+FLAG000405,TXN0002778,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.239483
+FLAG000406,TXN0002783,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.239751
+FLAG000407,TXN0002793,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.240290
+FLAG000408,TXN0002795,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.240468
+FLAG000409,TXN0002798,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.240720
+FLAG000410,TXN0002801,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.240937
+FLAG000411,TXN0002812,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.241721
+FLAG000412,TXN0002813,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.241790
+FLAG000413,TXN0002829,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.242727
+FLAG000414,TXN0002841,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.243565
+FLAG000415,TXN0002862,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.245100
+FLAG000416,TXN0002863,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.245179
+FLAG000417,TXN0002864,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.245254
+FLAG000418,TXN0002871,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.245725
+FLAG000419,TXN0002876,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.246129
+FLAG000420,TXN0002880,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.246465
+FLAG000421,TXN0002884,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.246755
+FLAG000422,TXN0002892,cross_border,Transaction country DE differs from home country TR,2026-01-06 20:53:28.247332
+FLAG000423,TXN0002898,cross_border,Transaction country AZ differs from home country TR,2026-01-06 20:53:28.247710
+FLAG000424,TXN0002900,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.247844
+FLAG000425,TXN0002929,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.249948
+FLAG000426,TXN0002941,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.250782
+FLAG000427,TXN0002944,cross_border,Transaction country GE differs from home country GB,2026-01-06 20:53:28.251001
+FLAG000428,TXN0002949,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.251405
+FLAG000429,TXN0002953,cross_border,Transaction country GE differs from home country DE,2026-01-06 20:53:28.251739
+FLAG000430,TXN0002954,cross_border,Transaction country AZ differs from home country DE,2026-01-06 20:53:28.251797
+FLAG000431,TXN0002970,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.252791
+FLAG000432,TXN0002973,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.252988
+FLAG000433,TXN0002977,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.253261
+FLAG000434,TXN0002982,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.253582
+FLAG000435,TXN0002984,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.253717
+FLAG000436,TXN0003010,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.255648
+FLAG000437,TXN0003011,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.255706
+FLAG000438,TXN0003013,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.255811
+FLAG000439,TXN0003017,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.255994
+FLAG000440,TXN0003036,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.257325
+FLAG000441,TXN0003045,cross_border,Transaction country DE differs from home country TR,2026-01-06 20:53:28.257762
+FLAG000442,TXN0003050,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.258150
+FLAG000443,TXN0003073,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.259807
+FLAG000444,TXN0003078,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.260041
+FLAG000445,TXN0003080,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.260150
+FLAG000446,TXN0003082,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.260260
+FLAG000447,TXN0003091,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.260888
+FLAG000448,TXN0003095,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.261231
+FLAG000449,TXN0003099,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.261560
+FLAG000450,TXN0003100,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.261653
+FLAG000451,TXN0003103,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.261905
+FLAG000452,TXN0003118,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.262914
+FLAG000453,TXN0003126,cross_border,Transaction country AZ differs from home country GB,2026-01-06 20:53:28.263541
+FLAG000454,TXN0003144,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.264637
+FLAG000455,TXN0003147,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.264836
+FLAG000456,TXN0003165,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.265985
+FLAG000457,TXN0003166,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.266080
+FLAG000458,TXN0003168,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.266234
+FLAG000459,TXN0003174,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.266700
+FLAG000460,TXN0003182,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.267291
+FLAG000461,TXN0003185,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.267535
+FLAG000462,TXN0003187,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.267664
+FLAG000463,TXN0003199,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.268396
+FLAG000464,TXN0003218,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.269724
+FLAG000465,TXN0003225,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.270299
+FLAG000466,TXN0003234,cross_border,Transaction country TR differs from home country US,2026-01-06 20:53:28.271078
+FLAG000467,TXN0003238,cross_border,Transaction country AZ differs from home country TR,2026-01-06 20:53:28.271382
+FLAG000468,TXN0003239,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.271457
+FLAG000469,TXN0003260,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.272741
+FLAG000470,TXN0003264,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.273004
+FLAG000471,TXN0003270,cross_border,Transaction country GB differs from home country DE,2026-01-06 20:53:28.273346
+FLAG000472,TXN0003271,cross_border,Transaction country AZ differs from home country DE,2026-01-06 20:53:28.273415
+FLAG000473,TXN0003272,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.273463
+FLAG000474,TXN0003275,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.273599
+FLAG000475,TXN0003279,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.273751
+FLAG000476,TXN0003284,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.274017
+FLAG000477,TXN0003289,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.274267
+FLAG000478,TXN0003305,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.275151
+FLAG000479,TXN0003312,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.275574
+FLAG000480,TXN0003320,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.275933
+FLAG000481,TXN0003321,cross_border,Transaction country AZ differs from home country GB,2026-01-06 20:53:28.275981
+FLAG000482,TXN0003326,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.276222
+FLAG000483,TXN0003327,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.276268
+FLAG000484,TXN0003332,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.276496
+FLAG000485,TXN0003333,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.276540
+FLAG000486,TXN0003338,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.276827
+FLAG000487,TXN0003345,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.277266
+FLAG000488,TXN0003350,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.277542
+FLAG000489,TXN0003356,cross_border,Transaction country DE differs from home country TR,2026-01-06 20:53:28.277883
+FLAG000490,TXN0003369,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.278571
+FLAG000491,TXN0003372,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.278710
+FLAG000492,TXN0003379,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.279008
+FLAG000493,TXN0003385,cross_border,Transaction country US differs from home country DE,2026-01-06 20:53:28.279303
+FLAG000494,TXN0003408,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.280395
+FLAG000495,TXN0003410,cross_border,Transaction country US differs from home country TR,2026-01-06 20:53:28.280496
+FLAG000496,TXN0003445,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.282429
+FLAG000497,TXN0003452,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.282789
+FLAG000498,TXN0003469,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.283548
+FLAG000499,TXN0003481,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.284171
+FLAG000500,TXN0003483,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.284277
+FLAG000501,TXN0003488,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.284525
+FLAG000502,TXN0003489,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.284593
+FLAG000503,TXN0003493,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.284824
+FLAG000504,TXN0003496,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.285000
+FLAG000505,TXN0003502,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.285334
+FLAG000506,TXN0003506,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.285554
+FLAG000507,TXN0003519,cross_border,Transaction country AZ differs from home country TR,2026-01-06 20:53:28.286205
+FLAG000508,TXN0003538,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.287111
+FLAG000509,TXN0003555,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.288059
+FLAG000510,TXN0003562,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.288371
+FLAG000511,TXN0003571,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.288820
+FLAG000512,TXN0003600,cross_border,Transaction country TR differs from home country GE,2026-01-06 20:53:28.290313
+FLAG000513,TXN0003603,cross_border,Transaction country AZ differs from home country GE,2026-01-06 20:53:28.290482
+FLAG000514,TXN0003612,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.291565
+FLAG000515,TXN0003627,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.292426
+FLAG000516,TXN0003628,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.292524
+FLAG000517,TXN0003661,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.294531
+FLAG000518,TXN0003663,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.294744
+FLAG000519,TXN0003666,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.294996
+FLAG000520,TXN0003671,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.295392
+FLAG000521,TXN0003680,cross_border,Transaction country TR differs from home country US,2026-01-06 20:53:28.296472
+FLAG000522,TXN0003683,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.296703
+FLAG000523,TXN0003689,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.297225
+FLAG000524,TXN0003691,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.297404
+FLAG000525,TXN0003692,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.297478
+FLAG000526,TXN0003699,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.297987
+FLAG000527,TXN0003711,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.298646
+FLAG000528,TXN0003717,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.298970
+FLAG000529,TXN0003718,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.299021
+FLAG000530,TXN0003726,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.299405
+FLAG000531,TXN0003727,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.299450
+FLAG000532,TXN0003735,cross_border,Transaction country AZ differs from home country TR,2026-01-06 20:53:28.299859
+FLAG000533,TXN0003741,cross_border,Transaction country US differs from home country DE,2026-01-06 20:53:28.300263
+FLAG000534,TXN0003748,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.300714
+FLAG000535,TXN0003753,cross_border,Transaction country US differs from home country GE,2026-01-06 20:53:28.300996
+FLAG000536,TXN0003766,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.301713
+FLAG000537,TXN0003777,cross_border,Transaction country GE differs from home country DE,2026-01-06 20:53:28.302375
+FLAG000538,TXN0003778,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.302422
+FLAG000539,TXN0003783,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.302654
+FLAG000540,TXN0003805,cross_border,Transaction country AZ differs from home country TR,2026-01-06 20:53:28.304268
+FLAG000541,TXN0003809,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.304463
+FLAG000542,TXN0003811,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.304547
+FLAG000543,TXN0003824,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.305014
+FLAG000544,TXN0003829,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.305245
+FLAG000545,TXN0003830,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.305295
+FLAG000546,TXN0003838,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.305638
+FLAG000547,TXN0003839,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.305691
+FLAG000548,TXN0003844,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.305898
+FLAG000549,TXN0003853,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.306283
+FLAG000550,TXN0003856,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.306428
+FLAG000551,TXN0003858,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.306511
+FLAG000552,TXN0003866,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.306837
+FLAG000553,TXN0003867,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.306883
+FLAG000554,TXN0003871,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.307048
+FLAG000555,TXN0003874,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.307206
+FLAG000556,TXN0003888,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.307774
+FLAG000557,TXN0003893,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.307979
+FLAG000558,TXN0003896,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.308126
+FLAG000559,TXN0003897,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.308176
+FLAG000560,TXN0003928,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.309544
+FLAG000561,TXN0003946,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.310302
+FLAG000562,TXN0003957,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.310754
+FLAG000563,TXN0003971,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.311339
+FLAG000564,TXN0003972,cross_border,Transaction country GB differs from home country US,2026-01-06 20:53:28.311382
+FLAG000565,TXN0003988,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.312035
+FLAG000566,TXN0003999,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.312495
+FLAG000567,TXN0004000,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.312537
+FLAG000568,TXN0004015,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.313114
+FLAG000569,TXN0004016,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.313163
+FLAG000570,TXN0004021,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.313346
+FLAG000571,TXN0004038,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.314039
+FLAG000572,TXN0004045,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.314329
+FLAG000573,TXN0004070,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.315345
+FLAG000574,TXN0004071,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.315393
+FLAG000575,TXN0004073,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.315469
+FLAG000576,TXN0004078,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.315681
+FLAG000577,TXN0004094,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.316343
+FLAG000578,TXN0004125,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.317571
+FLAG000579,TXN0004133,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.317875
+FLAG000580,TXN0004143,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.318324
+FLAG000581,TXN0004147,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.318495
+FLAG000582,TXN0004162,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.319105
+FLAG000583,TXN0004176,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.319940
+FLAG000584,TXN0004188,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.320405
+FLAG000585,TXN0004201,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.320846
+FLAG000586,TXN0004208,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.321076
+FLAG000587,TXN0004209,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.321114
+FLAG000588,TXN0004216,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.321342
+FLAG000589,TXN0004219,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.321443
+FLAG000590,TXN0004231,cross_border,Transaction country DE differs from home country GB,2026-01-06 20:53:28.321849
+FLAG000591,TXN0004238,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.322077
+FLAG000592,TXN0004241,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.322177
+FLAG000593,TXN0004243,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.322246
+FLAG000594,TXN0004249,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.322447
+FLAG000595,TXN0004258,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.322737
+FLAG000596,TXN0004262,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.322869
+FLAG000597,TXN0004274,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.323253
+FLAG000598,TXN0004278,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.323384
+FLAG000599,TXN0004279,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.323421
+FLAG000600,TXN0004288,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.323726
+FLAG000601,TXN0004291,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.323827
+FLAG000602,TXN0004297,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.324027
+FLAG000603,TXN0004309,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.324413
+FLAG000604,TXN0004315,cross_border,Transaction country GE differs from home country TR,2026-01-06 20:53:28.324607
+FLAG000605,TXN0004323,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.324861
+FLAG000606,TXN0004335,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.325246
+FLAG000607,TXN0004336,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.325283
+FLAG000608,TXN0004339,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.325391
+FLAG000609,TXN0004349,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.325724
+FLAG000610,TXN0004351,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.325794
+FLAG000611,TXN0004354,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.325894
+FLAG000612,TXN0004362,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.326150
+FLAG000613,TXN0004366,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.326280
+FLAG000614,TXN0004369,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.326386
+FLAG000615,TXN0004373,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.326521
+FLAG000616,TXN0004376,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.326622
+FLAG000617,TXN0004379,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.326721
+FLAG000618,TXN0004388,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.327015
+FLAG000619,TXN0004390,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.327084
+FLAG000620,TXN0004396,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.327281
+FLAG000621,TXN0004401,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.327444
+FLAG000622,TXN0004405,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.327587
+FLAG000623,TXN0004406,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.327625
+FLAG000624,TXN0004422,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.328134
+FLAG000625,TXN0004423,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.328171
+FLAG000626,TXN0004426,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.328271
+FLAG000627,TXN0004431,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.328430
+FLAG000628,TXN0004439,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.328681
+FLAG000629,TXN0004440,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.328718
+FLAG000630,TXN0004448,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.328974
+FLAG000631,TXN0004451,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.329073
+FLAG000632,TXN0004474,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.329806
+FLAG000633,TXN0004486,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.330189
+FLAG000634,TXN0004489,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.330288
+FLAG000635,TXN0004505,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.330797
+FLAG000636,TXN0004508,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.330897
+FLAG000637,TXN0004515,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.331124
+FLAG000638,TXN0004516,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.331160
+FLAG000639,TXN0004523,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.331383
+FLAG000640,TXN0004539,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.331904
+FLAG000641,TXN0004541,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.331971
+FLAG000642,TXN0004546,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.332133
+FLAG000643,TXN0004554,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.332393
+FLAG000644,TXN0004563,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.332686
+FLAG000645,TXN0004570,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.332918
+FLAG000646,TXN0004576,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.333118
+FLAG000647,TXN0004581,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.333281
+FLAG000648,TXN0004591,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.333612
+FLAG000649,TXN0004593,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.333681
+FLAG000650,TXN0004612,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.334287
+FLAG000651,TXN0004613,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.334323
+FLAG000652,TXN0004615,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.334391
+FLAG000653,TXN0004620,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.334554
+FLAG000654,TXN0004639,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.335161
+FLAG000655,TXN0004646,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.335386
+FLAG000656,TXN0004647,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.335423
+FLAG000657,TXN0004660,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.335851
+FLAG000658,TXN0004685,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.336850
+FLAG000659,TXN0004688,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.336952
+FLAG000660,TXN0004696,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.337233
+FLAG000661,TXN0004700,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.337384
+FLAG000662,TXN0004702,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.337454
+FLAG000663,TXN0004706,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.337599
+FLAG000664,TXN0004712,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.337796
+FLAG000665,TXN0004719,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.338025
+FLAG000666,TXN0004723,cross_border,Transaction country GE differs from home country GB,2026-01-06 20:53:28.338158
+FLAG000667,TXN0004744,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.338824
+FLAG000668,TXN0004747,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.338923
+FLAG000669,TXN0004753,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.339117
+FLAG000670,TXN0004758,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.339279
+FLAG000671,TXN0004759,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.339315
+FLAG000672,TXN0004771,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.339718
+FLAG000673,TXN0004774,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.339821
+FLAG000674,TXN0004775,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.339864
+FLAG000675,TXN0004781,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.340060
+FLAG000676,TXN0004782,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.340097
+FLAG000677,TXN0004784,cross_border,Transaction country AZ differs from home country DE,2026-01-06 20:53:28.340170
+FLAG000678,TXN0004789,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.340337
+FLAG000679,TXN0004794,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.340503
+FLAG000680,TXN0004796,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.340570
+FLAG000681,TXN0004804,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.340827
+FLAG000682,TXN0004810,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.341019
+FLAG000683,TXN0004821,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.341371
+FLAG000684,TXN0004823,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.341440
+FLAG000685,TXN0004826,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.341546
+FLAG000686,TXN0004830,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.341682
+FLAG000687,TXN0004837,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.341910
+FLAG000688,TXN0004854,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.342446
+FLAG000689,TXN0004856,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.342516
+FLAG000690,TXN0004862,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.342711
+FLAG000691,TXN0004865,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.342812
+FLAG000692,TXN0004871,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.343008
+FLAG000693,TXN0004884,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.343417
+FLAG000694,TXN0004886,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.343486
+FLAG000695,TXN0004888,cross_border,Transaction country GE differs from home country TR,2026-01-06 20:53:28.343562
+FLAG000696,TXN0004889,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.343600
+FLAG000697,TXN0004894,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.343763
+FLAG000698,TXN0004899,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.343926
+FLAG000699,TXN0004910,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.344274
+FLAG000700,TXN0004917,cross_border,Transaction country AZ differs from home country GE,2026-01-06 20:53:28.344509
+FLAG000701,TXN0004922,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.344674
+FLAG000702,TXN0004934,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.345061
+FLAG000703,TXN0004935,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.345098
+FLAG000704,TXN0004938,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.345202
+FLAG000705,TXN0004943,cross_border,Transaction country AZ differs from home country TR,2026-01-06 20:53:28.345367
+FLAG000706,TXN0004945,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.345437
+FLAG000707,TXN0004947,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.345506
+FLAG000708,TXN0004958,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.345875
+FLAG000709,TXN0004963,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.346043
+FLAG000710,TXN0004964,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.346080
+FLAG000711,TXN0004967,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.346180
+FLAG000712,TXN0004971,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.346310
+FLAG000713,TXN0004972,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.346346
+FLAG000714,TXN0004976,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.346479
+FLAG000715,TXN0004979,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.346580
+FLAG000716,TXN0004981,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.346649
+FLAG000717,TXN0004988,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.346876
+FLAG000718,TXN0004989,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.346913
+FLAG000719,TXN0005007,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.347486
+FLAG000720,TXN0005009,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.347561
+FLAG000721,TXN0005022,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.347974
+FLAG000722,TXN0005029,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.348199
+FLAG000723,TXN0005040,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.348554
+FLAG000724,TXN0005041,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.348591
+FLAG000725,TXN0005049,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.348850
+FLAG000726,TXN0005054,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.349015
+FLAG000727,TXN0005058,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.349149
+FLAG000728,TXN0005061,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.349249
+FLAG000729,TXN0005084,cross_border,Transaction country GE differs from home country DE,2026-01-06 20:53:28.349983
+FLAG000730,TXN0005116,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.350994
+FLAG000731,TXN0005118,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.351064
+FLAG000732,TXN0005131,cross_border,Transaction country DE differs from home country TR,2026-01-06 20:53:28.351481
+FLAG000733,TXN0005137,cross_border,Transaction country DE differs from home country US,2026-01-06 20:53:28.351685
+FLAG000734,TXN0005154,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.352229
+FLAG000735,TXN0005159,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.352395
+FLAG000736,TXN0005169,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.352744
+FLAG000737,TXN0005178,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.353079
+FLAG000738,TXN0005190,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.353530
+FLAG000739,TXN0005211,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.354241
+FLAG000740,TXN0005216,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.354405
+FLAG000741,TXN0005221,cross_border,Transaction country GE differs from home country DE,2026-01-06 20:53:28.354575
+FLAG000742,TXN0005235,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.355034
+FLAG000743,TXN0005241,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.355237
+FLAG000744,TXN0005242,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.355275
+FLAG000745,TXN0005243,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.355312
+FLAG000746,TXN0005246,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.355414
+FLAG000747,TXN0005249,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.355515
+FLAG000748,TXN0005257,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.355790
+FLAG000749,TXN0005258,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.355828
+FLAG000750,TXN0005260,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.355898
+FLAG000751,TXN0005266,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.356094
+FLAG000752,TXN0005269,cross_border,Transaction country US differs from home country DE,2026-01-06 20:53:28.356195
+FLAG000753,TXN0005275,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.356387
+FLAG000754,TXN0005314,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.357636
+FLAG000755,TXN0005318,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.357768
+FLAG000756,TXN0005320,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.357837
+FLAG000757,TXN0005326,cross_border,Transaction country DE differs from home country TR,2026-01-06 20:53:28.358032
+FLAG000758,TXN0005340,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.358479
+FLAG000759,TXN0005344,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.358617
+FLAG000760,TXN0005346,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.358687
+FLAG000761,TXN0005355,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.358979
+FLAG000762,TXN0005363,cross_border,Transaction country GB differs from home country DE,2026-01-06 20:53:28.359242
+FLAG000763,TXN0005368,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.359407
+FLAG000764,TXN0005374,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.359614
+FLAG000765,TXN0005377,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.359717
+FLAG000766,TXN0005382,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.359882
+FLAG000767,TXN0005390,cross_border,Transaction country DE differs from home country TR,2026-01-06 20:53:28.360138
+FLAG000768,TXN0005392,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.360212
+FLAG000769,TXN0005398,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.360410
+FLAG000770,TXN0005399,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.360446
+FLAG000771,TXN0005407,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.360707
+FLAG000772,TXN0005411,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.360839
+FLAG000773,TXN0005422,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.361200
+FLAG000774,TXN0005423,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.361238
+FLAG000775,TXN0005429,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.361432
+FLAG000776,TXN0005432,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.361530
+FLAG000777,TXN0005437,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.361702
+FLAG000778,TXN0005442,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.361872
+FLAG000779,TXN0005444,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.361942
+FLAG000780,TXN0005452,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.362263
+FLAG000781,TXN0005457,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.362428
+FLAG000782,TXN0005460,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.362526
+FLAG000783,TXN0005469,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.362818
+FLAG000784,TXN0005476,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.363042
+FLAG000785,TXN0005481,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.363208
+FLAG000786,TXN0005499,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.363797
+FLAG000787,TXN0005509,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.364119
+FLAG000788,TXN0005522,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.364533
+FLAG000789,TXN0005530,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.364792
+FLAG000790,TXN0005534,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.364924
+FLAG000791,TXN0005537,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.365026
+FLAG000792,TXN0005546,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.365318
+FLAG000793,TXN0005552,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.365515
+FLAG000794,TXN0005558,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.365721
+FLAG000795,TXN0005561,cross_border,Transaction country TR differs from home country DE,2026-01-06 20:53:28.365822
+FLAG000796,TXN0005564,cross_border,Transaction country AZ differs from home country DE,2026-01-06 20:53:28.365923
+FLAG000797,TXN0005565,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.365959
+FLAG000798,TXN0005566,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.365996
+FLAG000799,TXN0005570,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.366130
+FLAG000800,TXN0005575,cross_border,Transaction country TR differs from home country GE,2026-01-06 20:53:28.366302
+FLAG000801,TXN0005583,cross_border,Transaction country GE differs from home country GB,2026-01-06 20:53:28.366562
+FLAG000802,TXN0005609,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.367388
+FLAG000803,TXN0005615,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.367590
+FLAG000804,TXN0005625,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.367918
+FLAG000805,TXN0005630,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.368083
+FLAG000806,TXN0005635,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.368250
+FLAG000807,TXN0005646,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.368656
+FLAG000808,TXN0005647,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.368696
+FLAG000809,TXN0005648,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.368737
+FLAG000810,TXN0005649,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.368778
+FLAG000811,TXN0005670,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.369510
+FLAG000812,TXN0005683,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.369943
+FLAG000813,TXN0005687,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.370074
+FLAG000814,TXN0005697,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.370397
+FLAG000815,TXN0005707,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.370721
+FLAG000816,TXN0005740,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.371784
+FLAG000817,TXN0005742,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.371854
+FLAG000818,TXN0005743,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.371891
+FLAG000819,TXN0005745,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.371959
+FLAG000820,TXN0005748,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.372059
+FLAG000821,TXN0005766,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.372633
+FLAG000822,TXN0005782,cross_border,Transaction country US differs from home country TR,2026-01-06 20:53:28.373146
+FLAG000823,TXN0005788,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.373341
+FLAG000824,TXN0005790,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.373409
+FLAG000825,TXN0005800,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.373738
+FLAG000826,TXN0005810,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.374059
+FLAG000827,TXN0005812,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.374132
+FLAG000828,TXN0005816,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.374266
+FLAG000829,TXN0005818,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.374334
+FLAG000830,TXN0005834,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.374841
+FLAG000831,TXN0005835,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.374878
+FLAG000832,TXN0005836,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.374918
+FLAG000833,TXN0005844,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.375178
+FLAG000834,TXN0005860,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.375697
+FLAG000835,TXN0005861,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.375734
+FLAG000836,TXN0005875,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.376194
+FLAG000837,TXN0005878,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.376295
+FLAG000838,TXN0005879,cross_border,Transaction country AZ differs from home country GB,2026-01-06 20:53:28.376332
+FLAG000839,TXN0005880,cross_border,Transaction country TR differs from home country GB,2026-01-06 20:53:28.376368
+FLAG000840,TXN0005881,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.376405
+FLAG000841,TXN0005882,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.376441
+FLAG000842,TXN0005890,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.376700
+FLAG000843,TXN0005896,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.376896
+FLAG000844,TXN0005907,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.377243
+FLAG000845,TXN0005908,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.377280
+FLAG000846,TXN0005909,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.377317
+FLAG000847,TXN0005912,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.377417
+FLAG000848,TXN0005919,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.377653
+FLAG000849,TXN0005928,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.377944
+FLAG000850,TXN0005934,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.378138
+FLAG000851,TXN0005958,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.378901
+FLAG000852,TXN0005962,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.379035
+FLAG000853,TXN0005963,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.379072
+FLAG000854,TXN0005969,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.379264
+FLAG000855,TXN0005970,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.379301
+FLAG000856,TXN0005976,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.379497
+FLAG000857,TXN0005982,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.379698
+FLAG000858,TXN0006003,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.380372
+FLAG000859,TXN0006004,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.380409
+FLAG000860,TXN0006032,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.381298
+FLAG000861,TXN0006063,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.382287
+FLAG000862,TXN0006064,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.382327
+FLAG000863,TXN0006080,cross_border,Transaction country DE differs from home country GB,2026-01-06 20:53:28.382842
+FLAG000864,TXN0006090,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.383163
+FLAG000865,TXN0006096,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.383356
+FLAG000866,TXN0006107,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.383715
+FLAG000867,TXN0006108,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.383752
+FLAG000868,TXN0006132,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.384617
+FLAG000869,TXN0006140,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.384911
+FLAG000870,TXN0006150,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.385242
+FLAG000871,TXN0006153,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.385342
+FLAG000872,TXN0006157,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.385474
+FLAG000873,TXN0006162,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.385649
+FLAG000874,TXN0006171,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.385938
+FLAG000875,TXN0006201,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.386897
+FLAG000876,TXN0006202,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.386935
+FLAG000877,TXN0006204,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.387004
+FLAG000878,TXN0006208,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.387134
+FLAG000879,TXN0006210,cross_border,Transaction country GE differs from home country TR,2026-01-06 20:53:28.387203
+FLAG000880,TXN0006219,cross_border,Transaction country GE differs from home country US,2026-01-06 20:53:28.387493
+FLAG000881,TXN0006229,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.387825
+FLAG000882,TXN0006249,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.388467
+FLAG000883,TXN0006256,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.388693
+FLAG000884,TXN0006269,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.389113
+FLAG000885,TXN0006274,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.389279
+FLAG000886,TXN0006278,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.389412
+FLAG000887,TXN0006300,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.390122
+FLAG000888,TXN0006330,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.391073
+FLAG000889,TXN0006355,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.391880
+FLAG000890,TXN0006359,cross_border,Transaction country AZ differs from home country TR,2026-01-06 20:53:28.392013
+FLAG000891,TXN0006365,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.392208
+FLAG000892,TXN0006370,cross_border,Transaction country DE differs from home country GE,2026-01-06 20:53:28.392372
+FLAG000893,TXN0006380,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.392695
+FLAG000894,TXN0006386,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.392889
+FLAG000895,TXN0006389,cross_border,Transaction country AZ differs from home country US,2026-01-06 20:53:28.392994
+FLAG000896,TXN0006391,cross_border,Transaction country GB differs from home country US,2026-01-06 20:53:28.393062
+FLAG000897,TXN0006392,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.393099
+FLAG000898,TXN0006394,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.393166
+FLAG000899,TXN0006404,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.393487
+FLAG000900,TXN0006416,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.393885
+FLAG000901,TXN0006418,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.393957
+FLAG000902,TXN0006422,cross_border,Transaction country DE differs from home country GB,2026-01-06 20:53:28.394090
+FLAG000903,TXN0006429,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.394317
+FLAG000904,TXN0006433,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.394449
+FLAG000905,TXN0006439,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.394641
+FLAG000906,TXN0006463,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.395401
+FLAG000907,TXN0006482,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.396013
+FLAG000908,TXN0006490,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.396270
+FLAG000909,TXN0006492,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.396340
+FLAG000910,TXN0006506,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.396789
+FLAG000911,TXN0006520,cross_border,Transaction country DE differs from home country GB,2026-01-06 20:53:28.397230
+FLAG000912,TXN0006522,cross_border,Transaction country GE differs from home country GB,2026-01-06 20:53:28.397298
+FLAG000913,TXN0006538,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.397822
+FLAG000914,TXN0006550,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.398210
+FLAG000915,TXN0006551,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.398248
+FLAG000916,TXN0006559,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.398507
+FLAG000917,TXN0006567,cross_border,Transaction country TR differs from home country GE,2026-01-06 20:53:28.398771
+FLAG000918,TXN0006574,cross_border,Transaction country AZ differs from home country GB,2026-01-06 20:53:28.399000
+FLAG000919,TXN0006584,cross_border,Transaction country AZ differs from home country GE,2026-01-06 20:53:28.399326
+FLAG000920,TXN0006585,cross_border,Transaction country TR differs from home country GE,2026-01-06 20:53:28.399370
+FLAG000921,TXN0006589,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.399506
+FLAG000922,TXN0006602,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.399919
+FLAG000923,TXN0006614,cross_border,Transaction country TR differs from home country DE,2026-01-06 20:53:28.401015
+FLAG000924,TXN0006621,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.401549
+FLAG000925,TXN0006622,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.401772
+FLAG000926,TXN0006625,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.401973
+FLAG000927,TXN0006629,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.402275
+FLAG000928,TXN0006640,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.402999
+FLAG000929,TXN0006643,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.403188
+FLAG000930,TXN0006655,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.403987
+FLAG000931,TXN0006662,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.404430
+FLAG000932,TXN0006666,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.404675
+FLAG000933,TXN0006676,cross_border,Transaction country TR differs from home country US,2026-01-06 20:53:28.405193
+FLAG000934,TXN0006678,cross_border,Transaction country GE differs from home country US,2026-01-06 20:53:28.405274
+FLAG000935,TXN0006680,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.405388
+FLAG000936,TXN0006698,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.406126
+FLAG000937,TXN0006704,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.406378
+FLAG000938,TXN0006709,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.406560
+FLAG000939,TXN0006713,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.406708
+FLAG000940,TXN0006718,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.406923
+FLAG000941,TXN0006724,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.407157
+FLAG000942,TXN0006725,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.407196
+FLAG000943,TXN0006738,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.407661
+FLAG000944,TXN0006747,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.408010
+FLAG000945,TXN0006757,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.408367
+FLAG000946,TXN0006760,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.408477
+FLAG000947,TXN0006762,cross_border,Transaction country GE differs from home country US,2026-01-06 20:53:28.408553
+FLAG000948,TXN0006765,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.408666
+FLAG000949,TXN0006769,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.408813
+FLAG000950,TXN0006771,cross_border,Transaction country US differs from home country GE,2026-01-06 20:53:28.408890
+FLAG000951,TXN0006774,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.409013
+FLAG000952,TXN0006786,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.409442
+FLAG000953,TXN0006804,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.410076
+FLAG000954,TXN0006811,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.410338
+FLAG000955,TXN0006815,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.410488
+FLAG000956,TXN0006828,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.410953
+FLAG000957,TXN0006844,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.411519
+FLAG000958,TXN0006846,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.411599
+FLAG000959,TXN0006848,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.411680
+FLAG000960,TXN0006851,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.411792
+FLAG000961,TXN0006852,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.411832
+FLAG000962,TXN0006855,cross_border,Transaction country US differs from home country GB,2026-01-06 20:53:28.411943
+FLAG000963,TXN0006861,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.412162
+FLAG000964,TXN0006862,cross_border,Transaction country DE differs from home country GE,2026-01-06 20:53:28.412203
+FLAG000965,TXN0006888,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.413174
+FLAG000966,TXN0006892,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.413339
+FLAG000967,TXN0006902,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.413683
+FLAG000968,TXN0006905,cross_border,Transaction country GB differs from home country GE,2026-01-06 20:53:28.413791
+FLAG000969,TXN0006908,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.413918
+FLAG000970,TXN0006910,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.413994
+FLAG000971,TXN0006924,cross_border,Transaction country DE differs from home country GB,2026-01-06 20:53:28.414487
+FLAG000972,TXN0006927,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.414598
+FLAG000973,TXN0006928,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.414639
+FLAG000974,TXN0006930,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.414757
+FLAG000975,TXN0006941,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.415161
+FLAG000976,TXN0006947,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.415375
+FLAG000977,TXN0006957,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.415741
+FLAG000978,TXN0006959,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.415916
+FLAG000979,TXN0006962,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.416097
+FLAG000980,TXN0006964,cross_border,Transaction country GB differs from home country DE,2026-01-06 20:53:28.416223
+FLAG000981,TXN0006974,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.416851
+FLAG000982,TXN0006985,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.417679
+FLAG000983,TXN0007017,cross_border,Transaction country GB differs from home country GE,2026-01-06 20:53:28.420023
+FLAG000984,TXN0007023,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.420342
+FLAG000985,TXN0007024,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.420389
+FLAG000986,TXN0007029,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.420589
+FLAG000987,TXN0007034,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.420780
+FLAG000988,TXN0007035,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.420823
+FLAG000989,TXN0007040,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.421047
+FLAG000990,TXN0007042,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.421128
+FLAG000991,TXN0007045,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.421250
+FLAG000992,TXN0007051,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.421473
+FLAG000993,TXN0007056,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.421667
+FLAG000994,TXN0007063,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.421927
+FLAG000995,TXN0007066,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.422045
+FLAG000996,TXN0007070,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.422196
+FLAG000997,TXN0007075,cross_border,Transaction country TR differs from home country DE,2026-01-06 20:53:28.422387
+FLAG000998,TXN0007081,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.422610
+FLAG000999,TXN0007083,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.422688
+FLAG001000,TXN0007090,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.422951
+FLAG001001,TXN0007094,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.423112
+FLAG001002,TXN0007101,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.423369
+FLAG001003,TXN0007107,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.423590
+FLAG001004,TXN0007120,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.424056
+FLAG001005,TXN0007127,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.424314
+FLAG001006,TXN0007128,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.424355
+FLAG001007,TXN0007130,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.424433
+FLAG001008,TXN0007131,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.424475
+FLAG001009,TXN0007134,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.424618
+FLAG001010,TXN0007141,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.424890
+FLAG001011,TXN0007142,cross_border,Transaction country DE differs from home country GE,2026-01-06 20:53:28.424931
+FLAG001012,TXN0007143,cross_border,Transaction country DE differs from home country GE,2026-01-06 20:53:28.424979
+FLAG001013,TXN0007154,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.425384
+FLAG001014,TXN0007161,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.425643
+FLAG001015,TXN0007162,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.425702
+FLAG001016,TXN0007178,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.426275
+FLAG001017,TXN0007179,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.426318
+FLAG001018,TXN0007186,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.426566
+FLAG001019,TXN0007187,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.426606
+FLAG001020,TXN0007192,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.426786
+FLAG001021,TXN0007193,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.426827
+FLAG001022,TXN0007196,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.426938
+FLAG001023,TXN0007208,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.427377
+FLAG001024,TXN0007212,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.427522
+FLAG001025,TXN0007227,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.428089
+FLAG001026,TXN0007232,cross_border,Transaction country AZ differs from home country DE,2026-01-06 20:53:28.428287
+FLAG001027,TXN0007241,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.428617
+FLAG001028,TXN0007248,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.428869
+FLAG001029,TXN0007254,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.429097
+FLAG001030,TXN0007257,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.429212
+FLAG001031,TXN0007265,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.429501
+FLAG001032,TXN0007269,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.429644
+FLAG001033,TXN0007274,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.429824
+FLAG001034,TXN0007277,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.429933
+FLAG001035,TXN0007283,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.430146
+FLAG001036,TXN0007299,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.430698
+FLAG001037,TXN0007301,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.430772
+FLAG001038,TXN0007308,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.431026
+FLAG001039,TXN0007313,cross_border,Transaction country US differs from home country TR,2026-01-06 20:53:28.431208
+FLAG001040,TXN0007314,cross_border,Transaction country US differs from home country TR,2026-01-06 20:53:28.431258
+FLAG001041,TXN0007317,cross_border,Transaction country US differs from home country TR,2026-01-06 20:53:28.431375
+FLAG001042,TXN0007324,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.431812
+FLAG001043,TXN0007332,cross_border,Transaction country AZ differs from home country TR,2026-01-06 20:53:28.432140
+FLAG001044,TXN0007333,cross_border,Transaction country US differs from home country TR,2026-01-06 20:53:28.432182
+FLAG001045,TXN0007339,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.432398
+FLAG001046,TXN0007345,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.432629
+FLAG001047,TXN0007357,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.433047
+FLAG001048,TXN0007367,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.433419
+FLAG001049,TXN0007369,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.433494
+FLAG001050,TXN0007383,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.433990
+FLAG001051,TXN0007386,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.434092
+FLAG001052,TXN0007392,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.434317
+FLAG001053,TXN0007394,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.434390
+FLAG001054,TXN0007403,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.434709
+FLAG001055,TXN0007426,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.435525
+FLAG001056,TXN0007430,cross_border,Transaction country TR differs from home country GB,2026-01-06 20:53:28.435672
+FLAG001057,TXN0007433,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.435784
+FLAG001058,TXN0007447,cross_border,Transaction country US differs from home country TR,2026-01-06 20:53:28.436832
+FLAG001059,TXN0007452,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.437024
+FLAG001060,TXN0007469,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.437637
+FLAG001061,TXN0007472,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.437751
+FLAG001062,TXN0007474,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.437829
+FLAG001063,TXN0007478,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.438019
+FLAG001064,TXN0007490,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.438461
+FLAG001065,TXN0007508,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.439103
+FLAG001066,TXN0007510,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.439178
+FLAG001067,TXN0007511,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.439218
+FLAG001068,TXN0007513,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.439294
+FLAG001069,TXN0007514,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.439334
+FLAG001070,TXN0007518,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.439480
+FLAG001071,TXN0007524,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.439693
+FLAG001072,TXN0007530,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.439905
+FLAG001073,TXN0007540,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.440277
+FLAG001074,TXN0007544,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.440424
+FLAG001075,TXN0007549,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.440602
+FLAG001076,TXN0007550,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.440642
+FLAG001077,TXN0007551,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.440711
+FLAG001078,TXN0007558,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.440953
+FLAG001079,TXN0007563,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.441128
+FLAG001080,TXN0007568,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.441324
+FLAG001081,TXN0007583,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.441858
+FLAG001082,TXN0007596,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.442344
+FLAG001083,TXN0007605,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.442673
+FLAG001084,TXN0007606,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.442714
+FLAG001085,TXN0007610,cross_border,Transaction country DE differs from home country GE,2026-01-06 20:53:28.442860
+FLAG001086,TXN0007615,cross_border,Transaction country US differs from home country GE,2026-01-06 20:53:28.443046
+FLAG001087,TXN0007617,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.443122
+FLAG001088,TXN0007629,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.443589
+FLAG001089,TXN0007643,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.444158
+FLAG001090,TXN0007645,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.444268
+FLAG001091,TXN0007662,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.444863
+FLAG001092,TXN0007667,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.445039
+FLAG001093,TXN0007669,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.445113
+FLAG001094,TXN0007675,cross_border,Transaction country TR differs from home country DE,2026-01-06 20:53:28.445323
+FLAG001095,TXN0007677,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.445397
+FLAG001096,TXN0007683,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.445609
+FLAG001097,TXN0007684,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.445650
+FLAG001098,TXN0007686,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.445726
+FLAG001099,TXN0007692,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.445950
+FLAG001100,TXN0007698,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.446170
+FLAG001101,TXN0007703,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.446363
+FLAG001102,TXN0007706,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.446521
+FLAG001103,TXN0007720,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.447364
+FLAG001104,TXN0007727,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.447847
+FLAG001105,TXN0007731,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.448117
+FLAG001106,TXN0007732,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.448185
+FLAG001107,TXN0007734,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.448336
+FLAG001108,TXN0007739,cross_border,Transaction country DE differs from home country TR,2026-01-06 20:53:28.448652
+FLAG001109,TXN0007745,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.449034
+FLAG001110,TXN0007746,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.449109
+FLAG001111,TXN0007751,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.449424
+FLAG001112,TXN0007753,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.449557
+FLAG001113,TXN0007765,cross_border,Transaction country GB differs from home country DE,2026-01-06 20:53:28.450297
+FLAG001114,TXN0007780,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.450980
+FLAG001115,TXN0007792,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.451639
+FLAG001116,TXN0007814,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.453001
+FLAG001117,TXN0007821,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.453421
+FLAG001118,TXN0007822,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.453498
+FLAG001119,TXN0007826,cross_border,Transaction country GB differs from home country DE,2026-01-06 20:53:28.453712
+FLAG001120,TXN0007831,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.453998
+FLAG001121,TXN0007838,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.454350
+FLAG001122,TXN0007840,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.454454
+FLAG001123,TXN0007844,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.454603
+FLAG001124,TXN0007850,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.454885
+FLAG001125,TXN0007869,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.455931
+FLAG001126,TXN0007899,cross_border,Transaction country US differs from home country GB,2026-01-06 20:53:28.457510
+FLAG001127,TXN0007906,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.457948
+FLAG001128,TXN0007910,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.458137
+FLAG001129,TXN0007915,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.458355
+FLAG001130,TXN0007927,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.458959
+FLAG001131,TXN0007942,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.459703
+FLAG001132,TXN0007947,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.460010
+FLAG001133,TXN0007952,cross_border,Transaction country GB differs from home country GE,2026-01-06 20:53:28.460306
+FLAG001134,TXN0007954,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.460430
+FLAG001135,TXN0007957,cross_border,Transaction country US differs from home country DE,2026-01-06 20:53:28.460637
+FLAG001136,TXN0007963,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.460968
+FLAG001137,TXN0007966,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.461144
+FLAG001138,TXN0007972,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.461485
+FLAG001139,TXN0007994,cross_border,Transaction country TR differs from home country GE,2026-01-06 20:53:28.462611
+FLAG001140,TXN0007997,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.462776
+FLAG001141,TXN0008006,cross_border,Transaction country TR differs from home country US,2026-01-06 20:53:28.463204
+FLAG001142,TXN0008015,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.463734
+FLAG001143,TXN0008021,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.464112
+FLAG001144,TXN0008024,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.464318
+FLAG001145,TXN0008029,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.464635
+FLAG001146,TXN0008032,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.464828
+FLAG001147,TXN0008063,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.466730
+FLAG001148,TXN0008065,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.466862
+FLAG001149,TXN0008069,cross_border,Transaction country AZ differs from home country TR,2026-01-06 20:53:28.467114
+FLAG001150,TXN0008071,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.467247
+FLAG001151,TXN0008116,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.469662
+FLAG001152,TXN0008121,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.469971
+FLAG001153,TXN0008126,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.470336
+FLAG001154,TXN0008136,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.471023
+FLAG001155,TXN0008142,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.471344
+FLAG001156,TXN0008144,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.471520
+FLAG001157,TXN0008146,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.471794
+FLAG001158,TXN0008155,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.472266
+FLAG001159,TXN0008165,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.472975
+FLAG001160,TXN0008191,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.474594
+FLAG001161,TXN0008199,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.475092
+FLAG001162,TXN0008202,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.475284
+FLAG001163,TXN0008208,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.475654
+FLAG001164,TXN0008209,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.475725
+FLAG001165,TXN0008217,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.476233
+FLAG001166,TXN0008225,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.476621
+FLAG001167,TXN0008229,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.476782
+FLAG001168,TXN0008233,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.476942
+FLAG001169,TXN0008237,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.477206
+FLAG001170,TXN0008245,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.477702
+FLAG001171,TXN0008246,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.477774
+FLAG001172,TXN0008253,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.478190
+FLAG001173,TXN0008255,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.478291
+FLAG001174,TXN0008274,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.479450
+FLAG001175,TXN0008300,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.480721
+FLAG001176,TXN0008305,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.480953
+FLAG001177,TXN0008325,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.482025
+FLAG001178,TXN0008326,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.482074
+FLAG001179,TXN0008336,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.482678
+FLAG001180,TXN0008339,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.482845
+FLAG001181,TXN0008341,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.482988
+FLAG001182,TXN0008345,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.483208
+FLAG001183,TXN0008347,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.483333
+FLAG001184,TXN0008363,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.484124
+FLAG001185,TXN0008389,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.485934
+FLAG001186,TXN0008397,cross_border,Transaction country GB differs from home country GE,2026-01-06 20:53:28.486794
+FLAG001187,TXN0008398,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.486871
+FLAG001188,TXN0008410,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.487553
+FLAG001189,TXN0008416,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.487898
+FLAG001190,TXN0008421,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.488172
+FLAG001191,TXN0008423,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.488275
+FLAG001192,TXN0008427,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.488519
+FLAG001193,TXN0008438,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.489183
+FLAG001194,TXN0008448,cross_border,Transaction country US differs from home country DE,2026-01-06 20:53:28.489787
+FLAG001195,TXN0008468,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.491265
+FLAG001196,TXN0008474,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.491751
+FLAG001197,TXN0008476,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.491921
+FLAG001198,TXN0008480,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.492207
+FLAG001199,TXN0008481,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.492288
+FLAG001200,TXN0008496,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.493304
+FLAG001201,TXN0008499,cross_border,Transaction country TR differs from home country GE,2026-01-06 20:53:28.493455
+FLAG001202,TXN0008505,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.493810
+FLAG001203,TXN0008519,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.494904
+FLAG001204,TXN0008531,cross_border,Transaction country GE differs from home country TR,2026-01-06 20:53:28.495874
+FLAG001205,TXN0008532,cross_border,Transaction country TR differs from home country DE,2026-01-06 20:53:28.495985
+FLAG001206,TXN0008536,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.496268
+FLAG001207,TXN0008537,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.496318
+FLAG001208,TXN0008553,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.497470
+FLAG001209,TXN0008554,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.497568
+FLAG001210,TXN0008559,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.497963
+FLAG001211,TXN0008566,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.498372
+FLAG001212,TXN0008571,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.498708
+FLAG001213,TXN0008575,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.499037
+FLAG001214,TXN0008589,cross_border,Transaction country GE differs from home country TR,2026-01-06 20:53:28.500025
+FLAG001215,TXN0008590,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.500105
+FLAG001216,TXN0008593,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.500348
+FLAG001217,TXN0008602,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.501055
+FLAG001218,TXN0008603,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.501161
+FLAG001219,TXN0008608,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.501510
+FLAG001220,TXN0008611,cross_border,Transaction country US differs from home country GE,2026-01-06 20:53:28.501791
+FLAG001221,TXN0008628,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.503338
+FLAG001222,TXN0008637,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.503931
+FLAG001223,TXN0008645,cross_border,Transaction country GE differs from home country DE,2026-01-06 20:53:28.504443
+FLAG001224,TXN0008647,cross_border,Transaction country US differs from home country DE,2026-01-06 20:53:28.504605
+FLAG001225,TXN0008656,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.505309
+FLAG001226,TXN0008683,cross_border,Transaction country GB differs from home country DE,2026-01-06 20:53:28.507271
+FLAG001227,TXN0008684,cross_border,Transaction country DE differs from home country TR,2026-01-06 20:53:28.507380
+FLAG001228,TXN0008686,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.507544
+FLAG001229,TXN0008689,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.507780
+FLAG001230,TXN0008694,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.508632
+FLAG001231,TXN0008703,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.510150
+FLAG001232,TXN0008705,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.510361
+FLAG001233,TXN0008709,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.510831
+FLAG001234,TXN0008712,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.511063
+FLAG001235,TXN0008714,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.511244
+FLAG001236,TXN0008722,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.512167
+FLAG001237,TXN0008725,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.512494
+FLAG001238,TXN0008747,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.514401
+FLAG001239,TXN0008752,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.514792
+FLAG001240,TXN0008770,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.516028
+FLAG001241,TXN0008794,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.517893
+FLAG001242,TXN0008799,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.518160
+FLAG001243,TXN0008801,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.518263
+FLAG001244,TXN0008829,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.520529
+FLAG001245,TXN0008830,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.520638
+FLAG001246,TXN0008842,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.521708
+FLAG001247,TXN0008845,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.522133
+FLAG001248,TXN0008856,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.523680
+FLAG001249,TXN0008858,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.523893
+FLAG001250,TXN0008860,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.524039
+FLAG001251,TXN0008868,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.524867
+FLAG001252,TXN0008870,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.525048
+FLAG001253,TXN0008871,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.525156
+FLAG001254,TXN0008873,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.525345
+FLAG001255,TXN0008888,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.526344
+FLAG001256,TXN0008889,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.526426
+FLAG001257,TXN0008898,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.527020
+FLAG001258,TXN0008901,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.527219
+FLAG001259,TXN0008903,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.527374
+FLAG001260,TXN0008910,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.527855
+FLAG001261,TXN0008914,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.528187
+FLAG001262,TXN0008924,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.529125
+FLAG001263,TXN0008927,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.529370
+FLAG001264,TXN0008936,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.530123
+FLAG001265,TXN0008966,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.532918
+FLAG001266,TXN0008973,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.533427
+FLAG001267,TXN0008975,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.533560
+FLAG001268,TXN0008977,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.533704
+FLAG001269,TXN0008979,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.533846
+FLAG001270,TXN0008981,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.533987
+FLAG001271,TXN0008983,cross_border,Transaction country US differs from home country TR,2026-01-06 20:53:28.534122
+FLAG001272,TXN0008990,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.534573
+FLAG001273,TXN0008999,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.535158
+FLAG001274,TXN0009003,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.535448
+FLAG001275,TXN0009016,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.536731
+FLAG001276,TXN0009018,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.536914
+FLAG001277,TXN0009025,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.537605
+FLAG001278,TXN0009027,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.537782
+FLAG001279,TXN0009030,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.538030
+FLAG001280,TXN0009033,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.538574
+FLAG001281,TXN0009035,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.538760
+FLAG001282,TXN0009052,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.540493
+FLAG001283,TXN0009054,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.540674
+FLAG001284,TXN0009058,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.541048
+FLAG001285,TXN0009066,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.541962
+FLAG001286,TXN0009067,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.542057
+FLAG001287,TXN0009068,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.542136
+FLAG001288,TXN0009074,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.542579
+FLAG001289,TXN0009076,cross_border,Transaction country TR differs from home country GB,2026-01-06 20:53:28.542734
+FLAG001290,TXN0009080,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.543067
+FLAG001291,TXN0009083,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.543376
+FLAG001292,TXN0009087,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.543671
+FLAG001293,TXN0009089,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.543820
+FLAG001294,TXN0009090,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.543909
+FLAG001295,TXN0009093,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.544173
+FLAG001296,TXN0009103,cross_border,Transaction country AZ differs from home country DE,2026-01-06 20:53:28.544896
+FLAG001297,TXN0009104,cross_border,Transaction country GE differs from home country DE,2026-01-06 20:53:28.544983
+FLAG001298,TXN0009106,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.545178
+FLAG001299,TXN0009108,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.545385
+FLAG001300,TXN0009110,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.545559
+FLAG001301,TXN0009119,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.546270
+FLAG001302,TXN0009135,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.547513
+FLAG001303,TXN0009151,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.548657
+FLAG001304,TXN0009152,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.548747
+FLAG001305,TXN0009156,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.549034
+FLAG001306,TXN0009160,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.549529
+FLAG001307,TXN0009168,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.550111
+FLAG001308,TXN0009172,cross_border,Transaction country TR differs from home country DE,2026-01-06 20:53:28.550455
+FLAG001309,TXN0009179,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.550977
+FLAG001310,TXN0009187,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.551634
+FLAG001311,TXN0009198,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.552602
+FLAG001312,TXN0009204,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.553196
+FLAG001313,TXN0009206,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.553359
+FLAG001314,TXN0009212,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.553797
+FLAG001315,TXN0009216,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.554106
+FLAG001316,TXN0009233,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.555617
+FLAG001317,TXN0009234,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.555837
+FLAG001318,TXN0009236,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.556009
+FLAG001319,TXN0009238,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.556194
+FLAG001320,TXN0009240,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.556397
+FLAG001321,TXN0009244,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.556716
+FLAG001322,TXN0009248,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.557039
+FLAG001323,TXN0009252,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.557488
+FLAG001324,TXN0009254,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.557813
+FLAG001325,TXN0009267,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.558795
+FLAG001326,TXN0009275,cross_border,Transaction country DE differs from home country GE,2026-01-06 20:53:28.559346
+FLAG001327,TXN0009280,cross_border,Transaction country AZ differs from home country TR,2026-01-06 20:53:28.559742
+FLAG001328,TXN0009283,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.559956
+FLAG001329,TXN0009302,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.561410
+FLAG001330,TXN0009313,cross_border,Transaction country GB differs from home country TR,2026-01-06 20:53:28.562469
+FLAG001331,TXN0009315,cross_border,Transaction country GE differs from home country TR,2026-01-06 20:53:28.562662
+FLAG001332,TXN0009317,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.562861
+FLAG001333,TXN0009318,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.562961
+FLAG001334,TXN0009323,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.563366
+FLAG001335,TXN0009344,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.565184
+FLAG001336,TXN0009349,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.565664
+FLAG001337,TXN0009352,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.565906
+FLAG001338,TXN0009376,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.567491
+FLAG001339,TXN0009394,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.568791
+FLAG001340,TXN0009397,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.569006
+FLAG001341,TXN0009408,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.570244
+FLAG001342,TXN0009414,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.570744
+FLAG001343,TXN0009420,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.571263
+FLAG001344,TXN0009426,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.571795
+FLAG001345,TXN0009438,cross_border,Transaction country TR differs from home country GE,2026-01-06 20:53:28.572786
+FLAG001346,TXN0009458,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.574328
+FLAG001347,TXN0009471,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.575473
+FLAG001348,TXN0009472,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.575543
+FLAG001349,TXN0009479,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.576217
+FLAG001350,TXN0009495,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.577580
+FLAG001351,TXN0009505,cross_border,Transaction country DE differs from home country US,2026-01-06 20:53:28.578451
+FLAG001352,TXN0009514,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.579107
+FLAG001353,TXN0009516,cross_border,Transaction country US differs from home country TR,2026-01-06 20:53:28.579272
+FLAG001354,TXN0009517,cross_border,Transaction country US differs from home country TR,2026-01-06 20:53:28.579356
+FLAG001355,TXN0009518,cross_border,Transaction country GE differs from home country TR,2026-01-06 20:53:28.579583
+FLAG001356,TXN0009545,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.581438
+FLAG001357,TXN0009550,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.582131
+FLAG001358,TXN0009552,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.582339
+FLAG001359,TXN0009554,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.582504
+FLAG001360,TXN0009564,cross_border,Transaction country US differs from home country TR,2026-01-06 20:53:28.583308
+FLAG001361,TXN0009567,cross_border,Transaction country TR differs from home country DE,2026-01-06 20:53:28.583648
+FLAG001362,TXN0009574,cross_border,Transaction country DE differs from home country TR,2026-01-06 20:53:28.584295
+FLAG001363,TXN0009577,cross_border,Transaction country DE differs from home country TR,2026-01-06 20:53:28.584612
+FLAG001364,TXN0009578,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.584752
+FLAG001365,TXN0009579,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.584957
+FLAG001366,TXN0009581,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.585317
+FLAG001367,TXN0009590,cross_border,Transaction country AZ differs from home country GE,2026-01-06 20:53:28.586056
+FLAG001368,TXN0009593,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.586271
+FLAG001369,TXN0009606,cross_border,Transaction country DE differs from home country US,2026-01-06 20:53:28.587622
+FLAG001370,TXN0009613,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.588484
+FLAG001371,TXN0009623,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.589420
+FLAG001372,TXN0009630,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.590102
+FLAG001373,TXN0009631,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.590205
+FLAG001374,TXN0009635,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.590556
+FLAG001375,TXN0009636,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.590676
+FLAG001376,TXN0009649,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.591752
+FLAG001377,TXN0009668,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.593516
+FLAG001378,TXN0009679,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.594413
+FLAG001379,TXN0009686,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.594901
+FLAG001380,TXN0009693,cross_border,Transaction country US differs from home country AZ,2026-01-06 20:53:28.595451
+FLAG001381,TXN0009698,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.595815
+FLAG001382,TXN0009710,cross_border,Transaction country GE differs from home country AZ,2026-01-06 20:53:28.596703
+FLAG001383,TXN0009713,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.597003
+FLAG001384,TXN0009714,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.597100
+FLAG001385,TXN0009719,cross_border,Transaction country TR differs from home country AZ,2026-01-06 20:53:28.597427
+FLAG001386,TXN0009728,cross_border,Transaction country GE differs from home country TR,2026-01-06 20:53:28.598075
+FLAG001387,TXN0009734,cross_border,Transaction country DE differs from home country AZ,2026-01-06 20:53:28.598401
+FLAG001388,TXN0009741,cross_border,Transaction country DE differs from home country US,2026-01-06 20:53:28.599162
+FLAG001389,TXN0009743,cross_border,Transaction country AZ differs from home country US,2026-01-06 20:53:28.599332
+FLAG001390,TXN0009744,cross_border,Transaction country GB differs from home country US,2026-01-06 20:53:28.599442
+FLAG001391,TXN0009747,cross_border,Transaction country GB differs from home country AZ,2026-01-06 20:53:28.599758
