@@ -1,3 +1,7 @@
+"""
+Load module for saving processed data to CSV and SQLite.
+"""
+
 import os
 import sqlite3
 import pandas as pd
@@ -23,6 +27,8 @@ def load_to_csv(customers_df, accounts_df, transactions_df, flags_df):
     accounts_df.to_csv("data/processed/CSVs/accounts.csv", index=False)
     transactions_df.to_csv("data/processed/CSVs/transactions.csv", index=False)
     flags_df.to_csv("data/processed/CSVs/transaction_flags.csv", index=False)
+
+
 
 def load_to_sqlite(customers_df, accounts_df, transactions_df, flags_df):
     """

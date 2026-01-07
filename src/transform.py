@@ -21,7 +21,7 @@ def flag_high_value_transactions(transactions: pd.DataFrame, threshold: float=10
         pd.DataFrame: DataFrame containing transaction flags
     """
     flagged = transactions[transactions["amount"] > threshold].copy()
-    flagged["flag_id"] = ["FLAG" + str(i).zfill(6) for i in range(1, len(flagged) + 1)]
+    flagged["flag_id"] = ["FLAG" + str(i).zfill(5) for i in range(1, len(flagged) + 1)]
     flagged["flag_type"] = "high_value"
     flagged["flag_reason"] = f"Transaction amount exceeds {threshold}"
     flagged["flagged_at"] = dt.datetime.now()
