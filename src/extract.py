@@ -23,15 +23,12 @@ def extract_transactions() -> pd.DataFrame:
     return transactions_df
 
 
-<<<<<<< HEAD
 # Persist raw CSVs
 customers_df.to_csv("data/raw/customers.csv", index=False)
 accounts_df.to_csv("data/raw/accounts.csv", index=False)
 transactions_df.to_csv("data/raw/transactions.csv", index=False)
 
 
-=======
->>>>>>> 2320acd2f957f428fb77c91156f2325b62017f29
 if __name__ == "__main__":
     print("Customers Data:")
     print(extract_customers().head())
